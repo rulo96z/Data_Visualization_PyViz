@@ -5,14 +5,9 @@ Analysis of the housing rental market data for San Francisco. The analysis will 
 
 ## Technologies
 In this project we are using **Python 3.8/ Jupyter lab**. The libraries that we use are:
-
----
-
-## Installation Guide
-
----
-
-## Usage
+- pandas
+- hvplot
+- pathlib
 
 ---
 
